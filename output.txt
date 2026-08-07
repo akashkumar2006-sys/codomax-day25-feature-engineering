@@ -1,0 +1,31 @@
+======================================================================
+             FEATURE ENGINEERING - DAY 25
+======================================================================
+
+Original Dataset
+
+    Study_Hours  Attendance  Assignments_Completed  Previous_Score  Pass
+0             2          60                      4              50     0
+1             3          65                      5              55     0
+...
+
+Dataset After Feature Engineering
+
+    Study_Hours  Attendance  ...  Attendance_Rate  Study_Efficiency
+0             2          60     ...        0.60             25.00
+1             3          65     ...        0.65             18.33
+...
+
+Model Accuracy:
+... %
+
+Classification Report:
+...
+
+Feature Importance
+              Feature  Importance
+      ...
+      ...
+
+Feature Engineering Completed Successfully ✅
+======================================================================
